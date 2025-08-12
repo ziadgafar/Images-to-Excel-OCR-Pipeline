@@ -1,9 +1,6 @@
 # 📂 ZIP-to-Excel OCR Pipeline  
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)  
-![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?logo=opencv)  
-![Tesseract OCR](https://img.shields.io/badge/Tesseract-OCR-orange?logo=google)  
-![License](https://img.shields.io/badge/License-MIT-lightgrey)  
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)  ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?logo=opencv)  ![Tesseract OCR](https://img.shields.io/badge/Tesseract-OCR-orange?logo=google)  ![License](https://img.shields.io/badge/License-MIT-lightgrey)  
 
 ---
 
