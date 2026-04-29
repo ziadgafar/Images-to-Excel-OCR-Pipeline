@@ -1,11 +1,11 @@
-# 📂 ZIP-to-Excel OCR Pipeline  
+# 📂 Images-to-Excel OCR Pipeline  
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)  ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?logo=opencv)  ![Tesseract OCR](https://img.shields.io/badge/Tesseract-OCR-orange?logo=google)  ![License](https://img.shields.io/badge/License-MIT-lightgrey)  
 
 ---
 
 ## 📜 Overview  
-The **ZIP-to-Excel OCR Pipeline** is an automation tool that:  
+The **Images-to-Excel OCR Pipeline** is an automation tool that:  
 1. Extracts images from ZIP files.  
 2. Preprocesses them with **OpenCV** for improved OCR accuracy.  
 3. Uses **Tesseract OCR** to extract text.  
